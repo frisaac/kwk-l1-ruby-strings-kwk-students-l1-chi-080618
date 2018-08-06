@@ -1,5 +1,5 @@
 # Code your prompts here!
-guest_name = gets.chomp
+guest_name = "please input guest name".gets.chomp
 party_name = gets.chomp
 date = gets.chomp
 time = gets.chomp
